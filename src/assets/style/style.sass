@@ -1,0 +1,119 @@
+$dark-color: #061224
+$blue-color: #332285
+$border-color: #8684E0
+$block-color: #252836
+$text-color: #ffffff
+$line-height: 1.65
+
+
+input, textarea 
+  outline: none 
+  &:focus:required:invalid 
+    border-color: red
+  &:required:valid 
+    border-color: green
+
+html, body
+  width: 100%
+  height: auto
+
+body 
+  position: relative
+  overflow-x: hidden
+  margin: 0
+  padding: 0
+  min-height: 100%
+  font-family: "Rubik", sans-serif
+  font-size: 1rem
+  line-height: $line-height
+  color: $text-color
+  background: $dark-color
+
+
+h1,h2,h3,h4,h5,h6
+  margin: 0
+  padding: 0
+  line-height: 1
+  
+p 
+  margin: 0
+  padding: 0
+  line-height: 1
+
+ul 
+  margin: 0
+  padding: 0
+  list-style: none
+
+a, a:hover
+  text-decoration: none
+
+img
+  user-select: none
+  pointer-events: none
+
+.wrapper
+  position: relative
+  overflow: hidden
+  width: 100%
+  padding: 0
+  min-width: 20rem
+  min-height: 100%
+
+.container
+  width: auto
+  padding: 0 .9375rem
+  margin: 0 auto
+  max-width: 75rem
+  display: block
+  position: relative
+
+.typical-img
+    position: relative
+    background-position: center
+    background-repeat: no-repeat
+    background-size: cover
+    display: block
+
+.typical-img > *
+    position: absolute
+    top: 0
+    bottom: 0
+    right: 0
+    left: 0
+    display: block
+
+.typical-img img
+    width: 100%
+    height: 100%
+    object-fit: contain
+
+.typical-img:before
+    padding-bottom: 100%
+    display: block
+    content: ''
+
+
+.btn
+  max-width: 12.1875rem
+  margin: 0 auto
+  width: 100%
+  background: $border-color
+  border-radius: .3125rem
+  padding: .625rem 1.875rem
+  border: 0
+  color: #fff
+  font:
+    size: .875rem
+    weight: 400
+  cursor: pointer
+  border: .125rem solid $border-color
+  transition: .25s all ease-in-out
+  &:hover
+    background: $blue-color
+    border: .125rem solid $border-color
+  
+.hidden
+  overflow: hidden
+  opacity: -1000
+  display: none

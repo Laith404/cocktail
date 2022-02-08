@@ -1,0 +1,380 @@
+{
+    "products": [
+      {
+        "image": "1.png",
+        "name": "Текила санрайз",
+        "price": 200,
+        "id": 1,
+        "available": true,
+        "rating": 4.8,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "mohito.png",
+        "name": "Мохито",
+        "price": 300,
+        "id": 2,
+        "available": true,
+        "rating": 5.0,
+        "availableInventory": 6,
+        "type": ["alcohol"],
+        "comp": ["Серебрная текила","a","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+        
+      },
+      {
+        "image": "margarita.png",
+        "name": "Маргарита",
+        "price": 985,
+        "id": 3,
+        "available": true,
+        "rating": 4.5,
+        "availableInventory": 16,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "bluevaguna.png",
+        "name": "Голубая лагуна",
+        "price": 185,
+        "id": 4,
+        "available": true,
+        "rating": 4.8,
+        "availableInventory": 20,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Негрони",
+        "price": 300,
+        "id": 5,
+        "available": true,
+        "rating": 5,
+        "availableInventory": 15,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Мартини Драй",
+        "price": 800,
+        "id": 6,
+        "available": true,
+        "rating": 4,
+        "availableInventory": 3,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "1.png",
+        "name": "Текила санрайз",
+        "price": 765,
+        "id": 7,
+        "available": true,
+        "rating": 4.6,
+        "availableInventory": 8,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Мохито",
+        "price": 495,
+        "id": 8,
+        "available": true,
+        "rating": 4.1,
+        "availableInventory": 15,
+        "type": ["notAlcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Космополитен",
+        "price": 699,
+        "id": 9,
+        "available": true,
+        "rating": 4.4,
+        "availableInventory": 120,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "1.png",
+        "name": "Маргарита",
+        "price": 700,
+        "id": 10,
+        "available": true,
+        "rating": 4.6,
+        "availableInventory": 110,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Куба Либре",
+        "price": 800,
+        "id": 11,
+        "available": true,
+        "rating": 4.9,
+        "availableInventory": 110,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Мартини Драй",
+        "price": 170,
+        "id": 12,
+        "available": true,
+        "rating": 4.0,
+        "availableInventory": 110,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "mohito.png",
+        "name": "Мохито",
+        "price": 300,
+        "id": 13,
+        "available": true,
+        "rating": 5.0,
+        "availableInventory": 120,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+        
+      },
+      {
+        "image": "margarita.png",
+        "name": "Маргарита",
+        "price": 985,
+        "id": 14,
+        "available": true,
+        "rating": 4.5,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "bluevaguna.png",
+        "name": "Голубая лагуна",
+        "price": 185,
+        "id": 15,
+        "available": true,
+        "rating": 4.8,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Негрони",
+        "price": 300,
+        "id": 16,
+        "available": true,
+        "rating": 5,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Мартини Драй",
+        "price": 800,
+        "id": 17,
+        "available": true,
+        "rating": 4,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "1.png",
+        "name": "Текила санрайз",
+        "price": 765,
+        "id": 18,
+        "available": true,
+        "rating": 4.6,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Мохито",
+        "price": 495,
+        "id": 19,
+        "available": true,
+        "rating": 4.1,
+        "availableInventory": 10,
+        "type": ["notAlcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Космополитен",
+        "price": 699,
+        "id": 20,
+        "available": true,
+        "rating": 4.4,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "1.png",
+        "name": "Маргарита",
+        "price": 700,
+        "id": 21,
+        "available": true,
+        "rating": 4.6,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Куба Либре",
+        "price": 800,
+        "id": 22,
+        "available": true,
+        "rating": 4.9,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Мартини Драй",
+        "price": 170,
+        "id": 23,
+        "available": true,
+        "rating": 4.0,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "mohito.png",
+        "name": "Мохито",
+        "price": 300,
+        "id": 24,
+        "available": true,
+        "rating": 5.0,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+        
+      },
+      {
+        "image": "margarita.png",
+        "name": "Маргарита",
+        "price": 985,
+        "id": 25,
+        "available": true,
+        "rating": 4.5,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "bluevaguna.png",
+        "name": "Голубая лагуна",
+        "price": 185,
+        "id": 26,
+        "available": true,
+        "rating": 4.8,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Негрони",
+        "price": 300,
+        "id": 27,
+        "available": true,
+        "rating": 5,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Мартини Драй",
+        "price": 800,
+        "id": 28,
+        "available": true,
+        "rating": 4,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "1.png",
+        "name": "Текила санрайз",
+        "price": 765,
+        "id": 29,
+        "available": true,
+        "rating": 4.6,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Мохито",
+        "price": 495,
+        "id": 30,
+        "available": true,
+        "rating": 4.1,
+        "availableInventory": 10,
+        "type": ["notAlcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Космополитен",
+        "price": 699,
+        "id": 31,
+        "available": true,
+        "rating": 4.4,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "1.png",
+        "name": "Маргарита",
+        "price": 700,
+        "id": 32,
+        "available": true,
+        "rating": 4.6,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "2.png",
+        "name": "Куба Либре",
+        "price": 800,
+        "id": 33,
+        "available": true,
+        "rating": 4.9,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      },
+      {
+        "image": "3.png",
+        "name": "Мартини Драй",
+        "price": 170,
+        "id": 34,
+        "available": true,
+        "rating": 4.0,
+        "availableInventory": 10,
+        "type": ["alcohol"],
+        "comp": ["Серебряная текила","Гренадин","Апельсиновый сок","Апельсин","Лёд в кубиках"]
+      }]
+  }
